@@ -16,9 +16,14 @@ include 'templates/header.php';
     <input type="reset"  value="Reset To-Do List">
 </form>
 
-<h2>Debugger</h2>
+<h2>Parsley's Active To-Dos</h2>
+
+
+    <input type="checkbox" id="todo" name="todo">
+    <label>[to be added with stored data]</label>
 
 <!--To Debug and also to check whether my $_POST is storing any user input-->
+<h2>Debugger</h2>
 <?php
     echo '<pre>';
     var_dump($_POST);
