@@ -5,8 +5,6 @@ $title = "Parlsey's To-Do List";
 include 'templates/header.php';
 ?><!--End of the global store title as PHP-->
 
-<h1><?php echo $title;?></h1>
-
-<?php include 'templates/navigation.php'; ?>
+<?php include 'add_to_do.php'?>
 
 <?php include 'templates/footer.php'; ?>
