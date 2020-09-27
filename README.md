@@ -13,7 +13,7 @@ Enter the localhost address in the browser to view.
 
 ## Screenshot
 
-![browser](browser.PNG)
+![browser](/references/browser.PNG)
 
 ### Notes
 
